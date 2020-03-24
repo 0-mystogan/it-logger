@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Muhamed Halkic",
+      "date": "2020-03-24T12:13:18.150Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstatin 005",
+      "attention": false,
+      "tech": "Faruk Ohran",
+      "date": "2020-03-24T13:34:41.689Z"
+    },
+    {
+      "message": "wireless down ",
+      "attention": true,
+      "tech": "Kenan Maslesa",
+      "date": "2020-03-24T13:53:56.100Z",
+      "id": 3
+    },
+    {
+      "message": "Network card failed on workstation 007",
+      "attention": true,
+      "tech": "Muhamed Halkic",
+      "date": "2020-03-24T13:54:45.392Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Muhamed",
+      "lastName": "Halkić"
+    },
+    {
+      "id": 2,
+      "firstName": "Faruk",
+      "lastName": "Ohran"
+    },
+    {
+      "id": 3,
+      "firstName": "Tarik",
+      "lastName": "Pašalić"
+    },
+    {
+      "firstName": "Fuad",
+      "lastName": "Dedić",
+      "id": 4
+    }
+  ]
+}
